@@ -1,6 +1,6 @@
 # Expanding Cards
 
-The user can expand each card and its content by placing their mouse over them. The card will become active, and expand while the previous one will automatically close.
+The user can expand each card and display its content by placing their mouse over them. The card will become active, and expand while the previous one will automatically close.
 
 ## Table of contents
 
@@ -14,7 +14,7 @@ The user can expand each card and its content by placing their mouse over them. 
 
 ### Links
 
-- [Live Site URL]()
+- [Live Site URL](https://rosalialey.github.io/expanding-cards-component/)
 
 ### Built with
 
