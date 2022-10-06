@@ -3,7 +3,7 @@
 
 :root {
     --arcticWhite: #f0f8ff;
-    --Muli: "Muli", Helvetica, sans-serif;
+    --muli: "Muli", Helvetica, sans-serif;
 }
 
 *,
@@ -13,7 +13,7 @@
 }
 
 body{
-    font-family: var(--Muli);
+    font-family: var(--muli);
     display: flex;
     justify-content: center;
     align-items: center;
